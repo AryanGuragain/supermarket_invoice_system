@@ -1,0 +1,15 @@
+ 1 Chicken 470 Groceries
+ 2 Bread 60 Groceries
+ 3 Rice 2000 Groceries
+ 4 Yoghurt 175 Groceries
+ 5 Ketchup 375 Groceries
+ 11 Jeans 3969 Clothing
+ 12 Sweater 1760 Clothing
+ 13 Shoes 3400 Clothing
+ 14 Jacket 2999 Clothing
+ 15 Tshirt 675 Clothing
+ 21 Airpods 2999 Electronics
+ 22 Speaker 3515 Electronics
+ 23 SmartTV 65999 Electronics
+ 24 IphoneX 65000 Electronics
+ 25 Laptop 120000 Electronics
